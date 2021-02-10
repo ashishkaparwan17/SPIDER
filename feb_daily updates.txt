@@ -13,3 +13,5 @@
 7 feb - nothing
 
 8 feb - stack q8,q9 and spider coding contest(5 questions)
+
+9 feb - started python data science-coursera(week1 started)
