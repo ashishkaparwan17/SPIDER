@@ -23,3 +23,15 @@
 12 feb - queue q1
 
 13 feb - CPHUB CONTEST(6 questions), euclidean (gcd),q2
+
+14 feb - nothing
+
+15 feb - nothing
+
+16 feb - nothing
+
+17 feb - nothing
+
+18 feb - nothing
+
+19 feb - graph implementation(adj list and adj matrix), BFS(directed and undirected)
