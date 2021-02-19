@@ -34,4 +34,4 @@
 
 18 feb - nothing
 
-19 feb - graph implementation(adj list and adj matrix), BFS(directed and undirected)
+19 feb - graph implementation(adj list and adj matrix), BFS using adj list and adj matrix(directed and undirected)
